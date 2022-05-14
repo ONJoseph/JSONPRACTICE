@@ -24,7 +24,7 @@ A simple guide to using JSON in your programs, including how to create and parse
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ONJoseph/Leaderboard/issues).
+Feel free to check the [issues page](https://github.com/ONJoseph/JSONPRACTICE/issues).
 
 ## Show your support
 
