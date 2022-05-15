@@ -6,7 +6,7 @@ A simple guide to using JSON in your programs, including how to create and parse
 
 - Major languages: HTML, CSS, JS
 - Frameworks: none
-- Technologies used: Git, JSON, API, GitHub.
+- Technologies used: Git, JSON, GitHub.
 
 ## Live Demo
 
